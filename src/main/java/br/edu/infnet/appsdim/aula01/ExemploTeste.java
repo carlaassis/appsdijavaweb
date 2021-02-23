@@ -9,7 +9,7 @@ public class ExemploTeste {
 		
 		String[] nomes = {"Carla", "Maria", "Jose"};
 		
-		String[] emails = {"carla@gmail.com, maria@gmail.com, jose@gmail.com"};
+		String[] emails = {"carla@gmail.com", "maria@gmail.com", "jose@gmail.com"};
 		
 		List<Aluno> alunos = new ArrayList<Aluno>();
 		
